@@ -1,0 +1,5 @@
+filegroup(
+    name = "canary",
+    srcs = ["canary.txt"],
+    visibility = ["//visibility:public"],
+)
